@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - gcc
+  - glibc-devel
+  - automake
+  - autoconf
+  - valgrind
+  - gdb
+  - strace
+devassistant_version: 0.9.0a2
+original_kwargs:
+  github: tradejpokus
+  name: /tmp/pokus
+project_type:
+- c
